@@ -7,4 +7,4 @@
 	url = https://github.com/cran/RISCA
 [submodule "survivalSL"]
 	path = survivalSL
-	url = https://github.com/cran/survivalSL
+	url = https://github.com/foucher-y/survivalsl
