@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RISCA"]
+	path = RISCA
+	url = https://github.com/cran/RISCA
 [submodule "survivalSL"]
 	path = survivalSL
 	url = https://github.com/foucher-y/survivalsl
