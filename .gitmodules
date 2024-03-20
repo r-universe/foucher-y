@@ -8,3 +8,6 @@
 [submodule "survivalSL"]
 	path = survivalSL
 	url = https://github.com/foucher-y/survivalsl
+[submodule "survivalmodels"]
+	path = survivalmodels
+	url = https://github.com/foucher-y/survivalmodels
