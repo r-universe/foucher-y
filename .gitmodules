@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "RISCA"]
 	path = RISCA
-	url = https://github.com/cran/RISCA
+	url = https://github.com/foucher-y/risca
 [submodule "survivalSL"]
 	path = survivalSL
 	url = https://github.com/foucher-y/survivalsl
